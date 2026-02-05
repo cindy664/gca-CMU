@@ -47,9 +47,9 @@
     "credits": "6 CMU credits",
     "abbreviation": "CMU",
     "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LAR 280 (Spring) | 6 Credits (Elective)",
-    "courseCode2": "LAR 280A (Fall) | 6 Credits (Elective)",
-    "courseCode3": "LAR 280A (Summer) | 6 Credits (Elective)"
+    "courseCode1": "LAR 280 (Spring)",
+    "courseCode2": "LAR 280A (Fall)",
+    "courseCode3": "LAR 280A (Summer)"
   },
   {
     "item": "coding-for-web",
@@ -61,9 +61,9 @@
     "credits": "6 CMU credits",
     "abbreviation": "CMU",
     "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LAR 280 (Spring) | 6 Credits (Elective)",
-    "courseCode2": "LAR 280A (Fall) | 6 Credits (Elective)",
-    "courseCode3": "LAR 280A (Summer) | 6 Credits (Elective)"
+    "courseCode1": "LAR 280 (Spring)",
+    "courseCode2": "LAR 280A (Fall)",
+    "courseCode3": "LAR 280A (Summer)"
   },
   {
     "item": "data-analytics",
@@ -75,9 +75,9 @@
     "credits": "6 CMU credits",
     "abbreviation": "CMU",
     "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LAR 280 (Spring) | 6 Credits (Elective)",
-    "courseCode2": "LAR 280A (Fall) | 6 Credits (Elective)",
-    "courseCode3": "LAR 280A (Summer) | 6 Credits (Elective)"
+    "courseCode1": "LAR 280 (Spring)",
+    "courseCode2": "LAR 280A (Fall)",
+    "courseCode3": "LAR 280A (Summer)"
   },
   {
     "item": "coding-for-data",
@@ -89,9 +89,9 @@
     "credits": "6 CMU credits",
     "abbreviation": "CMU",
     "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LAR 280 (Spring) | 6 Credits (Elective)",
-    "courseCode2": "LAR 280A (Fall) | 6 Credits (Elective)",
-    "courseCode3": "LAR 280A (Summer) | 6 Credits (Elective)"
+    "courseCode1": "LAR 280 (Spring)",
+    "courseCode2": "LAR 280A (Fall)",
+    "courseCode3": "LAR 280A (Summer)"
   },
   {
     "item": "career-discovery",
@@ -103,9 +103,9 @@
     "credits": "6 CMU credits",
     "abbreviation": "CMU",
     "registrationMessage": "2026 Summer registration is now open.",
-    "courseCode1": "LAR 280 (Spring) | 6 Credits (Elective)",
-    "courseCode2": "LAR 280A (Fall) | 6 Credits (Elective)",
-    "courseCode3": "LAR 280A (Summer) | 6 Credits (Elective)"
+    "courseCode1": "LAR 280 (Spring)",
+    "courseCode2": "LAR 280A (Fall)",
+    "courseCode3": "LAR 280A (Summer)"
   },
   {
     "item": "reserve-a-seat",
